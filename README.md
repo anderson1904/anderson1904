@@ -22,13 +22,21 @@
     <!---->
     <h5>SGBD</h5>
     <li>MYSQL (mais usei)</li>
+    <li>SQLite3(usando temporariamente</li>
     <li>PostgreSQL( iniciando)</li>
     <!---->
     <h5>Sistemas operacionais</h5>
     <p>(uso os 2)</p>
     <li>Windows(desde sempre)</li>
     <li>Linux mint(desde dezembro de 2024)</li>
-    
+    <!---->   
+    <h4>Fale comigo sobre...</h4>
+    <ul>
+        <li>distros do linux</li>
+        <li>planejamento de projetos robustos</li>
+        <li>programação com python e django</li>
+        <li>privacidade e navegação segura</li>
+    </ul>
 </ul>
 <h3>ainda irei corrigir o front end e escrever mais detalhes no futuro</h3>
 <!---
